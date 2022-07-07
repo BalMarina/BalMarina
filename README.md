@@ -16,4 +16,4 @@
 + БЭМ
 + Английский B1 (Intermediate)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalMarina)](https://github.com/BalMarina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalMarina&layout=compact)](https://github.com/BalMarina/github-readme-stats)
