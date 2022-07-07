@@ -16,4 +16,4 @@
 + БЭМ
 + Английский B1 (Intermediate)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BalMarina)](https://github.com/BalMarina/github-profile-trophy)
+[!(https://github-readme-stats.vercel.app/api?username=BalMarina)](https://github.com/BalMarina/github-readme-stats)
